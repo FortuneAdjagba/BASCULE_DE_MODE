@@ -1,5 +1,4 @@
-Ce petit projet à pour but d'améliorer de l'expérience utilisateur avec le stockage des données dans le navigateur et de
-permettre l'apprentissage des techniques CSS avancées et la programmation JavaScript.
+Maîtrise des techniques avancées en CSS et en programmation JavaScript.
 
 - styles.css : utiliserons des requêtes CSS avec @keyframes pour créer l'animation.<br>
 - script.js : JavaScript pour modifier dynamiquement la couleur de fond.<br>
