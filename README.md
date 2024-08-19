@@ -1,1 +1,11 @@
-Dans ce projet, nous allons créer un bouton de basculement permettant de changer le site web entre les modes sombre et clair, avec une animation de glissement pour une transition plus visuellement attrayante. Nous utiliserons des requêtes CSS avec @keyframes pour créer l'animation et JavaScript pour modifier dynamiquement la couleur de fond. La préférence de l'utilisateur sera stockée en utilisant le stockage local du navigateur, garantissant que sa sélection persiste même après le rafraîchissement de la page. Ce projet vous permettra d'apprendre des techniques CSS avancées, la programmation JavaScript, et comment améliorer l'expérience utilisateur en stockant des données dans le navigateur.
+Ce petit projet à pour but d'améliorer de l'expérience utilisateur avec le stockage des données dans le navigateur et de
+permettre l'apprentissage des techniques CSS avancées et la programmation JavaScript.
+
+- styles.css : utiliserons des requêtes CSS avec @keyframes pour créer l'animation.<br>
+- script.js : JavaScript pour modifier dynamiquement la couleur de fond.<br>
+
+## Démo en Direct
+
+Vous pouvez consulter la démo en direct ici :
+
+[![Voir la Démo](https://img.shields.io/badge/Démo-En%20Direct-brightgreen)](https://fortuneadjagba.github.io/BASCULE_DE_MODE/)
