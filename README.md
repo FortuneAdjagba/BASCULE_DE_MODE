@@ -1,4 +1,4 @@
-Maîtrise des techniques avancées en CSS et en programmation JavaScript.
+Techniques avancées en CSS et en programmation JavaScript.
 
 - styles.css : utiliserons des requêtes CSS avec @keyframes pour créer l'animation.<br>
 - script.js : JavaScript pour modifier dynamiquement la couleur de fond.<br>
